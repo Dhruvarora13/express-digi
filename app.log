@@ -1,0 +1,8 @@
+{"level":"\u001b[32minfo\u001b[39m","message":{"method":"POST","responseTime":"4.817","status":"201","url":"/teas"},"timestamp":"2024-10-10T15:30:24.244Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"5.132\"}","timestamp":"2024-10-10T15:46:04.221Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.734\"}","timestamp":"2024-10-10T15:46:33.459Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"1.242\"}","timestamp":"2024-10-10T15:46:38.333Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post was made to /teas","timestamp":"2024-10-11T10:07:42.851Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"9.292\"}","timestamp":"2024-10-11T10:07:42.875Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post was made to /teas","timestamp":"2024-10-11T10:07:58.289Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"5.865\"}","timestamp":"2024-10-11T10:07:58.298Z"}
